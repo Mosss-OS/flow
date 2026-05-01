@@ -2,7 +2,7 @@
 title: "Breaking Things with AI: How I Built a Self-Healing E-Commerce Test Suite"
 subtitle: "Using Passmark + Playwright to regression-test Vercel Commerce with natural language tests — no fragile selectors required."
 date: 2026-05-01
-tags: [AI, Testing, Playwright, Passmark, Hackathon, E-Commerce, DevRel, TypeScript]
+tags: [AI, Testing, Playwright, Passmark, Hackathon, E-Commerce, DevRel, TypeScript, BreakingAppsHackathon]
 cover: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=630&fit=crop
 ---
 
