@@ -1,7 +1,9 @@
 {
-  "name": "flow",
+"name": "flow",
   "version": "1.0.0",
-  "description": "Minimal AI-powered test suite for Vercel Commerce using Passmark + Playwright.",
+  "description": "Minimal AI-powered regression test suite for Vercel Commerce using Passmark + Playwright. Built for the Breaking Things Hackathon.",
+  "private": true,
+  "main": "./index.js",
   "type": "module",
   "scripts": {
     "test": "playwright test",
